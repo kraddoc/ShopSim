@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\NaName\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\NaName\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_ShopSim.-1975187017.00" t="ExcludeRecursive" />
+    <e p="D:\[Projects] Coding\GitHubReps\ShopSim" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Core" t="Include">
+            <e p="IInteractable.cs" t="Include" />
+            <e p="Wallet.cs" t="Include" />
+          </e>
+          <e p="Dialogue" t="Include">
+            <e p="DialogueHandler.cs" t="Include" />
+            <e p="ShopDialogue.cs" t="Include" />
+          </e>
+          <e p="Inventory" t="Include">
+            <e p="CostumeObject.cs" t="Include" />
+            <e p="InventoryObject.cs" t="Include" />
+            <e p="InventorySlot.cs" t="Include" />
+            <e p="ItemObject.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="PlayerCostume.cs" t="Include" />
+            <e p="PlayerInteract.cs" t="Include" />
+            <e p="PlayerInventory.cs" t="Include" />
+            <e p="PlayerMovement.cs" t="Include" />
+            <e p="PlayerState.cs" t="Include" />
+          </e>
+          <e p="Shop" t="Include">
+            <e p="ShopSetStartingInventory.cs" t="Include" />
+            <e p="ShopTradeHandler.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="InventoryDisplay.cs" t="Include" />
+            <e p="InventorySlotUI.cs" t="Include" />
+            <e p="ItemDescriptor.cs" t="Include" />
+            <e p="TradeWindowVisualizer.cs" t="Include" />
+            <e p="WalletVisualizer.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="ShopSim.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

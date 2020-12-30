@@ -12,7 +12,7 @@ namespace SimTask.Shop
         [SerializeField] private InventoryObject shopInventory;
         private Wallet _wallet;
 
-        private void Awake()
+        private void Start()
         {
             _wallet = Wallet.Instance;
             InventorySlotUI.OnLeftClick += CheckLeftClickAction;
