@@ -1,2 +1,2 @@
 # ShopSim
- A little costume shop simulator made for as an interview project
+ A little costume shop simulator made as an interview project
